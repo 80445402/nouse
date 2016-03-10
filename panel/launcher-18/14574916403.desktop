@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Terminal=false
+Type=Application
+Name=Google Drive
+Exec=/opt/google/chrome/google-chrome --profile-directory=Default --app-id=apdfllckaahabafndbhieahigkjlhalf
+Icon=chrome-apdfllckaahabafndbhieahigkjlhalf-Default
+NoDisplay=true
+StartupWMClass=crx_apdfllckaahabafndbhieahigkjlhalf
+X-XFCE-Source=file:///home/alloy/Desktop/chrome-apdfllckaahabafndbhieahigkjlhalf-Default.desktop
